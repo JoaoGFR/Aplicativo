@@ -1,0 +1,7 @@
+{
+  "name": "Aplicativo Delicioso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
